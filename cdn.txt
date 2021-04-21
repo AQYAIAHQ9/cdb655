@@ -1,0 +1,8 @@
+###########.........................###########
+
+Sistema de cdn e armazenamento privado e públicos, e sistemas, api, e storage onde fica gravado informações de texto,  vídeos fotos e médias, e crashs que ocorrem nos servidores, e scripts
+
+
+Esse é a CDN !
+
+###########.........................###########
