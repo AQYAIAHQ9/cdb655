@@ -12,7 +12,7 @@ server.listen(3001, 'localhost', () => {
 
 const Discord = require('discord.js')
 const client = new Discord.Client()
-const config = require('./JSON/config.json')
+const config = require('./config.json')
 const owner = require('./owner.json')
 
 
@@ -39,6 +39,6 @@ client.login(config.token)
 
 client.on('message', msg => {
 if(msg.content === `<@${client.user.id}>`) {
-return msg.channel.send('BOT TESTE')
+return msg.channel.send('oi')
 }
 })
